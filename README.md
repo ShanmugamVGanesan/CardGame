@@ -12,8 +12,8 @@ Dealer's Hand:
 Four of Diamonds
 
 Player's Hand:
-Two of Hearts
-Six of Diamonds
+Two of Hearts <br>
+Six of Diamonds 
 
 Would you like to Hit or Stand? Enter 'h' or 's' 
 h
@@ -23,9 +23,9 @@ Dealer's Hand:
 Four of Diamonds
 
 Player's Hand:
-Two of Hearts
-Six of Diamonds
-Seven of Diamonds
+Two of Hearts <br>
+Six of Diamonds <br>
+Seven of Diamonds 
 
 Would you like to Hit or Stand? Enter 'h' or 's'
 h
@@ -35,10 +35,10 @@ Dealer's Hand:
 Four of Diamonds
 
 Player's Hand:
-Two of Hearts
-Six of Diamonds
-Seven of Diamonds
-Seven of Clubs
+Two of Hearts <br>
+Six of Diamonds <br>
+Seven of Diamonds <br>
+Seven of Clubs <br>
 Player busts!
 
 Player's winnings stand at 90
