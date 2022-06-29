@@ -7,9 +7,9 @@ How many chips would you like to bet?
 Welcome to BlackJack! Get as close to 21 as you can without going over!
 Dealer hits until she reaches 17. Aces count as 1 or 11.
     
- Dealer's Hand:
- <card hidden>
- Four of Diamonds
+Dealer's Hand:
+(card hidden)
+Four of Diamonds
 
 Player's Hand:
 Two of Hearts
@@ -19,7 +19,7 @@ Would you like to Hit or Stand? Enter 'h' or 's'
 h
 
 Dealer's Hand:
-<card hidden>
+(card hidden)
 Four of Diamonds
 
 Player's Hand:
@@ -31,7 +31,7 @@ Would you like to Hit or Stand? Enter 'h' or 's'
 h
 
 Dealer's Hand:
-<card hidden>
+(card hidden)
 Four of Diamonds
 
 Player's Hand:
